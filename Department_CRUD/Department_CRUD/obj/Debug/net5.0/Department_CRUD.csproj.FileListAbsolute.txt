@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\Department_CRUD.exe
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\Department_CRUD.deps.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\Department_CRUD.runtimeconfig.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\Department_CRUD.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\Department_CRUD.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\ref\Department_CRUD.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\bin\Debug\net5.0\Department_CRUD.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.AssemblyInfo.cs
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\ref\Department_CRUD.dll
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.pdb
+C:\Users\HP\Desktop\HDD\CodeAcademy\Department_crud\Department_CRUD\Department_CRUD\obj\Debug\net5.0\Department_CRUD.genruntimeconfig.cache
